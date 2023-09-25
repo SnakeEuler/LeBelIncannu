@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2c362d71c7c0c24d9f89b177b29de12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233279
+  packageName: Clean Events
+  packageVersion: 1.1
+  assetPath: Assets/Clean Events/Scripts/Internals/EventsDictionary.cs
+  uploadId: 535196

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: baa7b2ae942f1224f8616c0c79083b58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233279
+  packageName: Clean Events
+  packageVersion: 1.1
+  assetPath: Assets/Clean Events/Scripts/EventsList.cs
+  uploadId: 535196

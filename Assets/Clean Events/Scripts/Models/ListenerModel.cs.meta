@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e472bea269f7e874d899eb2691ccbb1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233279
+  packageName: Clean Events
+  packageVersion: 1.1
+  assetPath: Assets/Clean Events/Scripts/Models/ListenerModel.cs
+  uploadId: 535196

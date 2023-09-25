@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0fc409b49cc41445b165ae8f31f5831
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233279
+  packageName: Clean Events
+  packageVersion: 1.1
+  assetPath: Assets/Clean Events/CleanEvents.asmdef
+  uploadId: 535196
